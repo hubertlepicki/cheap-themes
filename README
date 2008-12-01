@@ -1,7 +1,73 @@
 CheapThemes
 ===========
 
-This plugin already works and provides theming support. But please wait till I write any documentation and some tests - until then you can't use it safely.
+This plugin provides easy view themes support and customizable controller actions for Rails applications.
+
+Installation
+============
+
+First, grab a copy of plugin from repository:
+
+    ./script/plugin install git://github.com/hubertlepicki/cheap-themes.git
+
+Usage
+=====
+
+Theming views
+-------------
+
+To allow theming of views, include following line in your controller:
+
+    class ExampleController
+      has_themable_views :find_view_theme
+      ....
+    end
+
+and define "find_view_theme" method in the same controller or any of parent ones:
+    
+    class ExampleController
+      has_themable_views :find_view_theme
+     
+      ....
+ 
+      private 
+      def find_view_theme
+        "green"
+      end
+    end
+
+Of course, instead of "find_view_theme" you can use your own name.
+
+Now, if you want to customize index.html.erb view file, create file "RAILS_ROOT/themes/green/views/example/index.html.erb". It's content will be used instead of standard "RAILS_ROOT/app/views/example/index.html.erb".
+
+This also works with layouts, so if you want to customize "default.html.erb" layout, just create file "RAILS_ROOT/app/views/layouts/default.html.erb".
+
+Customizing actions
+-------------------
+
+If you want to customize ExampleController::index action, create file "RAILS_ROOT"/themes/green/controllers/example/index.rb" with customized code, for example:
+
+render :text => "This is customized action"
+
+And add in your controller:
+
+    class ExampleController
+      has_customizable_actions :find_action_theme
+     
+      ....
+ 
+      private 
+      def find_action_theme
+        "green"
+      end
+    end
+
+General notes
+-------------
+
+Of course you can have multiple multiple themes.
+
+In development mode, customized controller actions are reloaded on every request. In production mode, customized controller actions are loaded only once (at first request) and then cached methods are used.
 
 Example
 =======
