@@ -69,9 +69,10 @@ Of course you can have multiple multiple themes.
 
 In development mode, customized controller actions are reloaded on every request. In production mode, customized controller actions are loaded only once (at first request) and then cached methods are used.
 
-Example
-=======
+Bugs and requests
+=================
 
-Work in progress.
+Please use issues tracker available at http://projects.lepicki.com/projects/cheapthemes/issues to submit bugs and patches.
+
 
 Copyright (c) 2008 Hubert Lepicki, released under the MIT license
