@@ -1,0 +1,636 @@
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:01:57) [GET]
+Rendering example1/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:02:39) [GET]
+Rendering example1/index
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:03:52) [GET]
+Rendering example1/index
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:04:23) [GET]
+Rendering example1/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:05:55) [GET]
+Rendering example1/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:06:58) [GET]
+Rendering example1/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:08:48) [GET]
+Rendering example1/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:09:48) [GET]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:09:48) [GET]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:11:13) [GET]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:11:13) [GET]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:12:15) [GET]
+Rendering example1/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:12:15) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:13:53) [GET]
+Rendering example1/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:13:53) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:16:11) [GET]
+Rendering example1/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:16:11) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:16:11) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:16:33) [GET]
+Rendering example1/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:16:33) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:16:33) [GET]
+Rendering example1/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:16:43) [GET]
+Rendering example1/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:16:43) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:16:43) [GET]
+Rendering example1/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:18:47) [GET]
+Rendering example1/index
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:18:47) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:18:47) [GET]
+Rendering example1/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:18:47) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:18:47) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:22:22) [GET]
+Rendering example1/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:22:22) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:22:22) [GET]
+Rendering example1/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:22:22) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:22:22) [GET]
+Rendering example1/other_action
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:23:01) [GET]
+Rendering example1/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:23:01) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:23:01) [GET]
+Rendering example1/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:23:01) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:23:28) [GET]
+Rendering example1/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:23:28) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:23:28) [GET]
+Rendering example1/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:23:28) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:24:34) [GET]
+Rendering example1/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:24:34) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:24:34) [GET]
+Rendering example1/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:24:34) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:24:34) [GET]
+Rendering example1/other_action
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:26:20) [GET]
+Rendering example1/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:26:20) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:26:20) [GET]
+Rendering example1/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:26:20) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:26:20) [GET]
+Rendering example1/other_action
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:28:28) [GET]
+Rendering example1/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:28:28) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:28:28) [GET]
+Rendering example1/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:28:28) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:28:28) [GET]
+Rendering example1/other_action
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:29:19) [GET]
+Rendering example1/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:29:19) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:29:19) [GET]
+Rendering example1/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:29:19) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:29:19) [GET]
+Rendering example1/other_action
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:30:25) [GET]
+Rendering example1/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:30:25) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:30:25) [GET]
+Rendering example1/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:30:25) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:30:25) [GET]
+Rendering example1/other_action
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:30:25) [GET]
+Rendering example1/other_action
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:30:25) [GET]
+Rendering example1/other_action
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:30:52) [GET]
+Rendering example1/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:30:52) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:30:52) [GET]
+Rendering example1/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:30:52) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:30:52) [GET]
+Rendering example1/other_action
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:30:52) [GET]
+Rendering example1/other_action
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:30:52) [GET]
+Rendering example1/other_action
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:31:11) [GET]
+Rendering example1/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:31:11) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:31:11) [GET]
+Rendering example1/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:31:11) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:31:11) [GET]
+Rendering example1/other_action
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:31:11) [GET]
+Rendering example1/other_action
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:31:11) [GET]
+Rendering example1/other_action
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:33:37) [GET]
+Rendering example1/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:33:37) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:33:37) [GET]
+Rendering example1/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:33:37) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:33:37) [GET]
+Rendering example1/other_action
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:33:37) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:34:07) [GET]
+Rendering example1/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:34:07) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:34:07) [GET]
+Rendering example1/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:34:07) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:34:07) [GET]
+Rendering example1/other_action
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:34:07) [GET]
+Rendering example1/other_action
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:34:19) [GET]
+Rendering example1/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:34:19) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:34:19) [GET]
+Rendering example1/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:34:19) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:34:19) [GET]
+Rendering example1/other_action
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:34:19) [GET]
+Rendering example1/other_action
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:34:38) [GET]
+Rendering example1/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:34:38) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:34:38) [GET]
+Rendering example1/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:34:39) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:34:39) [GET]
+Rendering example1/other_action
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:34:39) [GET]
+Rendering example1/other_action
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:34:47) [GET]
+Rendering example1/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:34:47) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:34:47) [GET]
+Rendering example1/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:34:47) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:34:47) [GET]
+Rendering example1/other_action
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:34:47) [GET]
+Rendering example1/other_action
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:36:20) [GET]
+Rendering example1/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:36:20) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:36:20) [GET]
+Rendering example1/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:36:20) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:36:20) [GET]
+Rendering example1/other_action
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:36:20) [GET]
+Rendering example1/other_action
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:36:20) [GET]
+Rendering example1/other_action
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:36:20) [GET]
+Rendering example1/other_action
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:36:55) [GET]
+Rendering example1/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:36:55) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:36:55) [GET]
+Rendering example1/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:36:55) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:36:55) [GET]
+Rendering example1/other_action
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:36:55) [GET]
+Rendering example1/other_action
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:36:55) [GET]
+Rendering example1/other_action
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2008-12-01 17:36:55) [GET]
+Rendering example1/other_action
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/example1]
