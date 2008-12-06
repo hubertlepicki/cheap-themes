@@ -4,17 +4,16 @@ CheapThemes
 This plugin provides easy view themes support and customizable controller actions for Rails applications.
 
 Installation
-============
+------------
 
 First, grab a copy of plugin from repository:
 
     ./script/plugin install git://github.com/hubertlepicki/cheap-themes.git
 
 Usage
-=====
+-----
 
-Theming views
--------------
+### Theming views
 
 To allow theming of views, include following line in your controller:
 
@@ -42,8 +41,7 @@ Now, if you want to customize index.html.erb view file, create file "RAILS_ROOT/
 
 This also works with layouts, so if you want to customize "default.html.erb" layout, just create file "RAILS_ROOT/app/views/layouts/default.html.erb".
 
-Customizing actions
--------------------
+### Customizing actions
 
 If you want to customize ExampleController::index action, create file "RAILS_ROOT"/themes/green/controllers/example/index.rb" with customized code, for example:
 
@@ -73,6 +71,8 @@ Bugs and requests
 =================
 
 Please use issues tracker available at http://projects.lepicki.com/projects/cheapthemes/issues to submit bugs and patches.
+
+Please also feel free to send me a message over Github or email at hubert.lepicki at gmail if more convinient.
 
 
 Copyright (c) 2008 Hubert Lepicki, released under the MIT license

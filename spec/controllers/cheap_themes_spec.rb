@@ -1,6 +1,6 @@
 require 'spec/spec_helper'
 
-describe Example1Controller, "views tests" do
+describe Example1Controller, "Controller with themed views" do
   integrate_views
 
   it "should render action normally when theme is null" do
@@ -23,7 +23,7 @@ describe Example1Controller, "views tests" do
   
 end
 
-describe Example1Controller, "action tests" do
+describe Example1Controller, "Controller with customized actions" do
   integrate_views
 
   it "should render action normally when theme is null" do

@@ -1,3 +1,5 @@
+# Module which adde theming support for Rails controllers (included into ActiveController::Base).
+# Provides theming support for all view files, and method of overwriting actions.
 module CheapThemes
 
   def self.included(base)
@@ -59,7 +61,8 @@ module CheapThemes
     #        @current_user.theme_name
     #      end
     #
-    #  And then define file RAILS_ROOT/themes/somethemename/controllers/shopping/index.rb with some different content:
+    #  And then define file RAILS_ROOT/themes/somethemename/controllers/shopping/index.rb with
+    #  some different content:
     #    @products = Product.paginate :all, :order => "id ASC", :per_page => 20
     #
     def has_customizable_actions(finder_method)
@@ -90,8 +93,12 @@ module CheapThemes
     # standard, or themed action.
     def cheap_themes_prepare_customized_actions #:nodoc:
       theme = self.send(self.class.actions_theme_finder_method)
-      if theme != nil and theme =~ /[a-z]/i and File.exists?("#{RAILS_ROOT}/themes/#{theme}/controllers/#{controller_name}/#{action_name}.rb")
-        if Rails.configuration.cache_classes == false or not (self.respond_to? "cheap_themes_customized_action_#{controller_name}_#{action_name}")
+      if theme != nil and theme =~ /[a-z]/i and
+          File.exists?("#{RAILS_ROOT}/themes/#{theme}/controllers/#{controller_name}/#{action_name}.rb")
+        
+        if Rails.configuration.cache_classes == false or
+            not (self.respond_to? "cheap_themes_customized_action_#{controller_name}_#{action_name}")
+
           ruby_code = "def cheap_themes_customized_action_#{theme}_#{controller_name}_#{action_name}\n"
           f = File.new "#{RAILS_ROOT}/themes/#{theme}/controllers/#{controller_name}/#{action_name}.rb"
           ruby_code += f.read
