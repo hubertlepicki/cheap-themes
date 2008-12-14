@@ -38,7 +38,9 @@ module CheapThemes
 
     # Provides getter for finding theme procedure's name
     def theme_finder_method #:nodoc:
-      @theme_finder_method
+      return @theme_finder_method if @theme_finder_method
+      return self.superclass.theme_finder_method if self.superclass.respond_to? :theme_finder_method
+      ""
     end
 
     # Execute this method in your controller's class body to enable costomized actions
@@ -72,7 +74,9 @@ module CheapThemes
 
     # Getter for action finding theme name
     def actions_theme_finder_method #:nodoc:
-      @actions_theme_finder_method
+      return @actions_theme_finder_method if @actions_theme_finder_method
+      return self.superclass.actions_theme_finder_method if self.superclass.respond_to? :actions_theme_finder_method
+      nil
     end
 
   end
@@ -92,8 +96,8 @@ module CheapThemes
     # and aliases original action methods so that they dynamically make decision wether execute
     # standard, or themed action.
     def cheap_themes_prepare_customized_actions #:nodoc:
-      theme = self.send(self.class.actions_theme_finder_method)
-      if theme != nil and theme =~ /[a-z]/i and
+      if (tfm = self.class.actions_theme_finder_method) and theme = self.send(tfm) \
+      and theme != nil and theme =~ /[a-z]/i and \
           File.exists?("#{RAILS_ROOT}/themes/#{theme}/controllers/#{controller_name}/#{action_name}.rb")
         
         if Rails.configuration.cache_classes == false or
@@ -126,6 +130,7 @@ CLS_EVAL
 INS_EVAL
          self.class_eval ruby_code
         end
+        puts "??????"
       end
     end
 
