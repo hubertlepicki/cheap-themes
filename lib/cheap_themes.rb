@@ -89,7 +89,7 @@ module CheapThemes
     def cheap_themes_setup_view_paths #:nodoc:
       theme = self.send(self.class.theme_finder_method)
       self.view_paths = ::ActionController::Base.view_paths.dup.unshift("#{RAILS_ROOT}/themes/#{theme}/views") \
-        if theme and theme =~ /[a-z]/i
+        if theme and theme =~ /^[\w\.\-\+]+$/i
     end
 
     # Method which loads customized actions, adds them into controller as instance variables,

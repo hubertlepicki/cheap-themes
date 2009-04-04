@@ -724,3 +724,33 @@ Completed in 3ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
 Processing Example1Controller#index (for 0.0.0.0 at 2008-12-06 15:52:57) [GET]
 Rendering example1/other_action
 Completed in 3ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2009-04-04 20:09:41) [GET]
+Rendering example1/index
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2009-04-04 20:09:41) [GET]
+Rendering example1/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2009-04-04 20:09:41) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2009-04-04 20:09:41) [GET]
+Rendering example1/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2009-04-04 20:09:41) [GET]
+Rendering example1/other_action
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
+
+
+Processing Example1Controller#index (for 0.0.0.0 at 2009-04-04 20:09:41) [GET]
+Rendering example1/other_action
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/example1]
