@@ -22,7 +22,7 @@ To allow theming of views, include following line in your controller:
       ....
     end
 
-and define "find_view_theme" method in the same controller or any of parent ones:
+and define "find_view_theme" method in the same controller or any of parent ones that returns a String which is a theme name:
     
     class ExampleController
       has_themable_views :find_view_theme
@@ -39,7 +39,7 @@ Of course, instead of "find_view_theme" you can use your own name.
 
 Now, if you want to customize index.html.erb view file, create file "RAILS_ROOT/themes/green/views/example/index.html.erb". It's content will be used instead of standard "RAILS_ROOT/app/views/example/index.html.erb".
 
-This also works with layouts, so if you want to customize "default.html.erb" layout, just create file "RAILS_ROOT/app/views/layouts/default.html.erb".
+This also works with layouts, so if you want to customize "default.html.erb" layout, just create file "RAILS_ROOT/themes/green/views/layouts/default.html.erb".
 
 ### Customizing actions
 
@@ -70,9 +70,9 @@ In development mode, customized controller actions are reloaded on every request
 Bugs and requests
 =================
 
-Please use issues tracker available at http://projects.lepicki.com/projects/cheapthemes/issues to submit bugs and patches.
+Please use Github to fork and submit merge requests or email me and patches.
 
-Please also feel free to send me a message over Github or email at hubert.lepicki at gmail if more convinient.
+Please also feel free to send me a message over Github or email at hubert.lepicki at gmail.com with questions, comments or criticism ;).
 
 
 Copyright (c) 2008 Hubert Lepicki, released under the MIT license
