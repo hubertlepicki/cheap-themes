@@ -97,7 +97,7 @@ module CheapThemes
     # standard, or themed action.
     def cheap_themes_prepare_customized_actions #:nodoc:
       if (tfm = self.class.actions_theme_finder_method) and theme = self.send(tfm) \
-      and theme != nil and theme =~ /[a-z]/i and \
+      and theme != nil and theme =~ /^[\w\.\-\+]+$/i and \
           File.exists?("#{RAILS_ROOT}/themes/#{theme}/controllers/#{controller_name}/#{action_name}.rb")
         
         if Rails.configuration.cache_classes == false or
