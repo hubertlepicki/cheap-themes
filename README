@@ -3,6 +3,8 @@ CheapThemes
 
 This plugin provides easy view themes support and customizable controller actions for Rails applications.
 
+This version is for use with Rails 2.x only. For 3.0 please see master branch.
+
 Installation
 ------------
 
